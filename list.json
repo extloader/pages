@@ -1,8 +1,10 @@
 [
   {
-    "name": "osint"
+    "title": "osint",
+    "value": "osint"
   },
   {
-    "name": "test"
+    "title": "test",
+    "value": "test"
   }
 ]
