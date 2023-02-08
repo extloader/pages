@@ -1,10 +1,10 @@
 [
   {
     "title": "osint",
-    "value": "osint"
+    "value": "osint.json"
   },
   {
     "title": "test",
-    "value": "test"
+    "value": "test.json"
   }
 ]
