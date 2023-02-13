@@ -1,17 +1,38 @@
 [
   {
-    "url": "https://chrome.google.com/webstore/detail/nkbihfbeogaeaoehlefnkodbefgpgknn",
-    "name": "MetaMask",
-    "img": "https://lh3.googleusercontent.com/QW0gZ3yugzXDvTANa5-cc1EpabQ2MGnl6enW11O6kIerEaBQGOhgyUOvhRedndD9io8RJMmJZfIXq1rMxUsFHS2Ttw=w128-h128-e365-rj-sc0x00ffffff"
+    "name": "Frame By Frame",
+    "id": "cclnaabdfgnehogonpeddbgejclcjneh",
+    "description": "Best Frame By Frame Tool. Works with all websites! Move your mouse cursor over video and use keyboard arrows to switch frames.",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB00lEQVQ4jY2TT2sTYRCHn3k3kq7ozQQvjbVSisFDRdBbTZsWTKxXoaCgFaVePHnsVwi1qW2kB6Wxt0JP6iKGJvYrGJBixfjnlJzEw7qS3fEQE9aYpP5OL8z8npl5hxG6lEqVzwF3BGaBM0BT4KuKlnzfKuztXX4fzpf2I5N5Ff3p2jlgEbC6wQCoBiqybtvuQ8fJeh1AKlUeEpWXiE73NP6r0olY4+r29vVfBkBUcm3z2Ngxlh9NcCVzEpG+gJlGI5YDkHS6lAya5h0iBuDGzVMsLJwGYH//B2uPD6hWv/eC+AoTxvet+20zgAmVHR8/zkr+PEtLSeLxaDfAEpXbxkB60LAiMJ2Os1m8xN17o9i2FYrprFEYHgRoKxo1zM8nKBQuEIm0ulQYNfRb2f+pGUHlE6LJwzI9L2Bn5xtbzz/TbGprBPgSwQSvUekLUIXybp2NjY/U6153eDeiKk8FHrRHCVQ70YFrVA0CkSdWrbZZHxm5FRO4COC6PonEUYrFGvmVD72qttoXyZcrU1sCnTt4Acwc9hcACm9s273mOFnPADhO1huy3TlEV1ENBnh9RFdjscbcX8cU1uTk27OW6OKf2xhG5QhwAJRU9FmlMlUN5/8G2eat8UkW/yQAAAAASUVORK5CYII="
   },
   {
-    "url": "https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm",
-    "name": "Ublock",
-    "img": "https://lh3.googleusercontent.com/rrgyVBVte7CfjjeTU-rCHDKba7vtq-yn3o8-10p5b6QOj_2VCDAO3VdggV5fUnugbG2eDGPPjoJ9rsiU_tUZBExgLGc=w128-h128-e365-rj-sc0x00ffffff"
+    "name": "Tampermonkey",
+    "id": "dhdgffkkebhmkfjojejmpbldmpobfkfo",
+    "description": "The world's most popular userscript manager",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACuUlEQVRYhe1XzUrjUBS+PydJr0FIbqEptWgbs3AabWm7KgW9Wx/B95hhBnTRYTZWfIEsxXmPvoKbAXEh+AAyaKWbyfTOormlf2kinamz8IMDIdxzvu/+cH4Q+t8ghChyzi8YY7cAMEQIyVUMAIamad5xzi/a7XZhKXmpVDrRdf1lVdI403X9pVQqncSSE0JW3nGSEUKGcyKEEMV/ufNFJyGEKI4FcM4v1kWuLOIcwTTNu3ULiDgRRgghABiGYYjRGgEAMgxDokjlOskngMkbEY/xLuBdwLuARAGU0pAQ8vu1gSmlIQCEadfP1vC+4zjntVrND4JAC4JAc133gHN+SSkdzK5XRikdcM4v9/b2DjqdDvR6Pdjf3/9gWdZXAHhe4DMvwDTNe9/3vTilnudVDMN4mA1mGMaD53mVOL9ms7mradqPpQI0TXuuVqvlpOPyPK8yeRKU0sEycoXDw8MyAPyMFZDNZs+Sgihwzi+VX/SdCo7jnE4KmHqE29vb12kD5XK5K/VtWdbVsrWT8H3/O8bzhVdubGy8SClTl+ROpwOU0l+EkDAIAi2tn5QSG4ahrmHqBF5Vko+OjhBCCGGMX13K53wAYIgxllN9WgJ836+g6C5rtZqf1u/4+LiIMZZRyz+Casny+fzntIEsy/qmBDiOc57Wj3P+ESEkGWO345+2bXfRqFt9bLVaW0lBGo2GBwB9JQAA+styh0LUfT+i2aZ0si03DONm2VVUq9Xy5ubmPZpOKNI0zftms7kb59dqtbYYYzcoyjdzU5LruuPBRNf1x0Kh8EUIUZRSYiklrtfrO7Ztn2qatiiljhNZNps9q9frO8pPCFHM5XKf1M4JIUPXdRdPR67rnkwSYIxlJpN5Yoz140jjjDHWz2QyT9GLVxnzKZZcod1uF2zb7v7t4dS27W7icPoW+APuDY8LuerAgwAAAABJRU5ErkJggg=="
   },
   {
-    "url": "https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp",
-    "name": "Lightshot",
-    "img": "https://lh3.googleusercontent.com/TIbsibAuq-iUGw32x-BjzBXluUuNV5sTNQJg69vC72CmhEned3zUhjKn33K7g04GhRzZBbDYEzTKbwVJbeT1zQ6-=w128-h128-e365-rj-sc0x00ffffff"
+    "name": "Awesome Screenshot and Screen Recorder",
+    "id": "nlipoenfbbikpbjkfpfillcgkoblgpmj",
+    "description": "The best screen recorder and screen capture & screenshot tool to record screen.",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADP0lEQVQ4jS2KWWhcVQBAz733LfNmn2RmMs1HYjOaWFCCP/qlUiTUpeJS9aOIIIJSV7ootvqhqEUoCIJFhSL4XYsVWqy04AZFCChVpIlJDCXbdN7MS2Ymb5a3+hHP5zlHACxWj5WV7r5ixK13pGqpWNsEsQmiBURgKshJRAGiggi9gvZRaIrTt763VBcblZOlONG/nJL96a5sEtEAYSNHQI2YICLCtr3jRxSyrJEsC1wrvibS/ozmppKvl4L0tBs2ifsW2mSV3MsvYe69mzibBkC4Lbzfr7D162mCeBHXMkmVxLQdWK+J1fGvIxV7Ihq0MO8dZvjzp1n2Wnx/8RJLi0sATExM8ODDD1EtmjQvHWLQ/hmyJr4mIrEx9l0cBwPUuKJ8YT9X/rrKqY8/oeO6mIkkAIN+j3TS4ujRI+zbexcbvzxCL7hBZJiIlbGfYvoDSp/ewdp9Pi88+yL9ICRbrKB0HWIIw4COXUOXcObMV+zKz7J0/S1CPYn0owxhsYg5M8q3Z8+z1e6QLVYIEazZDqsNhyCGbKlCx3U5d+4s6eIDtDNVmkYW2YuT+JUcUSbi+t9zJKwkmm6wbjcwciUS+RJrdRup6ZhWivn5OcIwSTs5yU2tgNaxUuiWBMEOQhADQkgcu4YQAl3I/9POFAM1NYyjucjNnEmtrxO5kj17pvD6PcLAp1IcIqHAlDG7ikNEgY/X63H75BSeClkIDG7KMrKZ11mNdeZn+xx46lFy2Sxu00YXMF4pM14pY0jBtmOTTqd45snH+a11g4XQokER6WQVTlFx8YcupaHdnHj7CKYmcdZWaNc3aNc3cNZX0KXg+JuHGa6O8WXtH1pyiE2RR7z/nBN1LU00jZjRO30OH8zTqi3zzfkLzM0vADB1W5UDj+0nP7GbY8t/MOvXySofM+xH4o1D6x+EufK7TcOlYUFm1OPgPQnuvyVJRoQAbAvJj47DF/VV/hUuGeWRSAk02/5QPH+8U/L0+LJbSE5vGV22rJh2IqKQ9ShnQjACbOHRUB7K8NGUh5YSaP3WNdkbzAiAJ07Vyl0pXu1kzBPbKakGVkyUiIiMABI+UveRmgeah6AXqrB7UqneZ39O76v/By44YwceZh0mAAAAAElFTkSuQmCC"
+  },
+  {
+    "name": "AutoScroll",
+    "id": "occjjkgifpmdgodlplnacmkejpdionan",
+    "description": "This extension adds customizable autoscroll support to Chrome.",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADBElEQVQ4jV1TTW8bZRB+5l0n3sRgN918IYJ6aksA0QtIXIqa3noqF3IjaTmC1B+QNG1aNVZOqCIoV+oDofWlHGilqqVFQgKJBIeEFCrcJm4Tf1J7/bG73l3v+w4Hx6ZlpNHMYebRM8/MEP5nxVTqmCSaleCjAXMkkBKtwLe9pv/I87yFD06d2nyxnjpJOp0Ox1wngbB+Qj94cET0aFBKAQwQAS3fR24nUzSfV+7nHefM5OSk3wVIp9PhqNt8oA8PvRfq6+shauN+fS0BAjA99QmYFZRSqFWqrYcbG6t1qSY6ICj9sXG9Vsz7TqPGTavBrm1xLrvHhmGwYRicfZZhu2ayZZa5Xi5x5u9H/s2VlRUA0Iqp1DF6pf9834EDMRIahBAQmoYrC3GkUr+BFcN1PZw8OdGelQFdD2v1am3kw+PH71BuYz356tjYx1pvL4SmQQgNJASIBAAGKwWlJJTsRAmlJBzbxt17D26IgPlNEQqBiGBWq5i7cLHLIl8oIF8oAkQgAuYvXUa1aoIA9Ok6QpoYR2Y99bhhlnn5qyUeNAweHDQ4CFq8t7vL/f39HIlE+OnONrt2o6vJ0tUvuFLI8reJxGMRSAkGt+nuz9imrdDZBsBg5u7uO5mUkkO+33IEEaanpvDR6dO4+uUSlJIYHRnGnw+3QGAMDw1BKYWz01M49/lniMWiUFLC8VyHfv/x/o1D4+OTPeEwhBD7AlL7ehhgZjCrLitWEkopWPUGkje/uy4cu3klm8kUOofS8ZmZ8xh9fQyvjb2B2bkL+83/+S9rqyWzVo8DAH669f3K7pO036j8ww2zzFa1wrs7T7qiPdtOc71c4trzIpulHG+tr/mLi4vfAEAIAPK2c8bb3Dx0+O133h8wBnoYhFgsiotzsyAAsWi0zYAV9rK51u0791Zd1z370jMlk8necBBcGzCMiSNvHR3VdX3/mRgkCI5l4+df1wrbO5kfmp736fz8vP8SQMcSy8vvaro+IzRtXBBFpJRoeq5lWfZfpUplIR6Pb71Y/y/S0NAgu+F+5gAAAABJRU5ErkJggg=="
+  },
+  {
+    "name": "Instant Data Scraper",
+    "id": "ofaokhiedipichpaobibbnahnkdoiiah",
+    "description": "Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACi0lEQVQ4jX1TXUhTURz/3XvPNveRw4+puETUPggS0SliBGllGYFCDz3kg6RRRCrUYw+FPUhPPkQvgkk+ZQahg0hLUCQQRUnRhyypzZosd/fh1nbv7t09p4cKdrfq93T4/77O/8DhkIEOl6v6sJq65kylyvM1rQIAQoLwxUeI95OBjEytrm6k67n0c29N7UBbPN5zMfGjNDMYAF5ZbLvTVuuTx+vv7wNg6QHc3eM1r+/sh1pzkkk+pihQNA1JSgEAJp6HURBwwGiEbDLRIXv+28HN9QsAmAAAfTW1A7fFvatyNMqLsgxZ06BSCsoYKGNQKYWsadhXFDBF4Rq1VKVadYhf/u6fFzpcrurOcPiRJRS0Kb8b/weVUqjJJFdMyLFYVdWMcCmv8GGL7+tJjbEscchqg2Q0wqwqujkDUJCIW302ew5xSlJd6i/mles3YT7TCgDwvHyBuufPdHyKMTglqY5IHKv05ph1ZMxihfnsOfh2PFA1ivrOK9iYmUauLOt0EscqieFWn41vbNLXR6MA1ZBMJJDSKJjBCG7kKXi7XSczLC3aSJ6qxsorKnIzV5h7M4OGhnoAwIfPHpw+35a1pv/dQowPe7xrAs9nkU2nmhFUKIIKxYnmlixe4HmEPd41oby0ZLOsyNFjP1jGpz8lIQTFRQ4UFzlACNGZeY7Dt+VFbX5h7jI/7HavLE1OjVmYCovJkNWUCYvJAAtTsTQ5NTbsdq/8mXNDvf1b4l6AxWWF+SMxtiNG2LZfZNt+ke2IEeaPxFhcVpi4F2BDvf1b0P+jXyGDXd2js+MTKvsHZscn1MGu7tF0c1bKjfb2+qMlznsOR8ERa6GjFADiYmA3EAh+3PL7HqRfGwB+Ave3O+IsauRxAAAAAElFTkSuQmCC"
+  },
+  {
+    "name": "Privacy Badger",
+    "id": "pkehgijcmpdhfbdbbnkijodmdjhbjlgp",
+    "description": "Privacy Badger automatically learns to block invisible trackers.",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACWUlEQVQ4jc2SW0iTARiGX2WV81AQuOmF4e+maEWgmwnWsCjmsIhV4iFEvIiICklDNC8yL4ryQhvphVpqYHaRKCIdKVoHnYNYoKmh2ZLArPxTN92/3H7fLoRs1n298N1838f7HXiA/070eTnde4ndZfvofdPJv/dIv/JBa4u+91YWniiGGLEVMV+f4HL5KWBdKMLVsVDGpeGztQU32jqg366FqbgOwWsNgoMVSNGoUF5yGqPQoNHhhyfBjJF5JbobLuBgRSumYo/i2M1RTNyvhyJgNdc0bU1nkV1mgfWVHdfrGxCfkIi62lpMOJ3YZdiPPQciEaMOxyEtEJ2UFjjdYSngNYuF3+fmOfnxAx8/ekhBEAggIPZuAeloC/yP7HxJsy6KdscQZb+fJlMmk1NSeLWmhoVFRQTAVL2OVVVVNGdm0G27tWpAcYJNx3eys+ceSTI/P48AmJ2Ty5LSczxfWUlBENjT1Un/kpcyybdtpVx2f6HCP/aUV05mYSrahDOJWhiNRtjtdhgMu7G44EK8RsCixwObrR9qdRQAQJIkjFAD1YsWoDZHS0DJI4fNVKkiWV19kaI4Q5JclmX2dt+l3dbH32XtG2BNgY6zrflU5OTmocPRjBn3DzS2tsOcZcQSgLHxcbwe6IfPtwQhTvvr3PaOOwh1NMOsj8HG9KIVkNzP6zk2PAg5ZDO8koThd6MYFDcgSW9AbHwSUtMz8GnSiWddLdjBYZgqbgMhm0Dv/CqJlH2kNLeCp9+LhaEH8LhEuOZm8U2cRUR4GIRtOoQlZyNovfIPgv+dfgL1VDYacIgH/AAAAABJRU5ErkJggg=="
   }
 ]
